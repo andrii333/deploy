@@ -1,5 +1,5 @@
 apt-get install git
-apt-get install pip
+apt-get install python-pip
 
 pip install flask
 
